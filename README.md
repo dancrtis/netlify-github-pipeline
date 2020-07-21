@@ -1,10 +1,14 @@
 # Netlify and GitHub Actions CI/CD Pipeline
 
-Example React project using a CI/CD Pipeline using Netlify for CD, GitHub Actions for CI, and Cypress for testing. **[Read the tutorial on Dev.to](https://dev.to/curtiscodes/)**
+Example React project using a CI/CD Pipeline using Netlify for CD, GitHub Actions for CI, and Cypress for testing. 
+
+- **[Tutorial on Dev.to](https://dev.to/curtiscodes/)**
+- **[Production website](https://netlify-github-pipeline.netlify.app/)**
+- **[Development website](https://dev-netlify-github-pipeline.netlify.app/)**
 
 ## Prerequisites
 
-- [NodeJS)](https://nodejs.org/en/download/)
+- [NodeJS](https://nodejs.org/en/download/)
 
 ## Installation
 
