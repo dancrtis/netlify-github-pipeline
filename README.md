@@ -1,5 +1,7 @@
 # Netlify and GitHub Actions CI/CD Pipeline
 
+## Changing info to trigger action...delete later...
+
 Example React project using a CI/CD Pipeline using Netlify for CD, GitHub Actions for CI, and Cypress for testing. 
 
 - **[Tutorial on Dev.to](https://dev.to/curtiscodes/)**
